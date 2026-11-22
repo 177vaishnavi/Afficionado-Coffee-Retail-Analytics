@@ -1,0 +1,11 @@
+metric,value,formatted,description
+Total Transactions,149116.0,"149,116",Total unique customer transactions across all stores in 2025
+Total Gross Revenue,698812.33,"$698,812.33",Total sales revenue (unit_price * transaction_qty)
+Total Units Sold,214470.0,"214,470",Total quantity of items sold
+Average Transaction Value (ATV),4.69,$4.69,Mean revenue per transaction
+Average Units per Transaction,1.44,1.44,Average basket size in units
+Average Realized Unit Price,3.26,$3.26,Total revenue divided by total units sold
+Total Operating Stores,3.0,3,Number of retail coffee shop locations
+Product Categories,9.0,9,Number of high-level product categories
+Product Types,29.0,29,Number of product sub-types
+Product SKUs (Details),80.0,80,Distinct menu items/sizes offered

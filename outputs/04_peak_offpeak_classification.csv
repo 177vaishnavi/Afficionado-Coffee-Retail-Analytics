@@ -1,0 +1,4 @@
+demand_tier,transactions,units_sold,total_revenue,atv,distinct_hours,pct_transactions,pct_revenue,criteria,hours_list
+Peak,67391,96729,320069.26,4.749436274873499,4,45.19367472303442,45.801890759426065,"Hourly volume > 10,000 transactions (Top Rush Hours: 07, 08, 09, 10)","07:00, 08:00, 09:00, 10:00 (4 hours)"
+Moderate,70436,101401,325460.48,4.620655346697711,8,47.235709112368895,46.57337399871006,"Hourly volume 7,000 - 10,000 transactions (Sustained Day Demand: 11 to 18)","11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00 (8 hours)"
+Off-Peak,11289,16340,53282.59,4.719868013110107,3,7.57061616459669,7.6247352418638625,"Hourly volume < 7,000 transactions during operating window (06, 19, 20)","06:00, 19:00, 20:00 (3 hours)"
